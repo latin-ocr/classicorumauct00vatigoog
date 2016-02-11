@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./classicorumauct00vatigoog_0008.png"; bbox 0 0 3382 5206; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 1933 1586 2619">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 1933 1586 2619">
+     <span class='ocr_line' id='line_1_1' title="bbox 284 1933 1586 2115; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 284 1940 442 2115; x_wconf 86' lang='lat' dir='ltr'>CL</span> <span class='ocrx_word' id='word_1_2' title='bbox 490 1933 1394 2108; x_wconf 84' lang='lat' dir='ltr'>ASSICORUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1582 1944 1586 1959; x_wconf 83' lang='lat'>&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 391 2232 1259 2417; baseline -0.005 -3"><span class='ocrx_word' id='word_1_4' title='bbox 391 2232 480 2414; x_wconf 79' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 521 2242 624 2417; x_wconf 92' lang='lat' dir='ltr'><strong>U</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 665 2235 728 2409; x_wconf 90' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_7' title='bbox 760 2242 830 2409; x_wconf 92' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_8' title='bbox 860 2240 931 2408; x_wconf 90' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_9' title='bbox 962 2244 1036 2409; x_wconf 89' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_10' title='bbox 1067 2244 1139 2411; x_wconf 93' lang='lat' dir='ltr'><strong>U</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1170 2244 1259 2410; x_wconf 88' lang='lat' dir='ltr'>M</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 257 2524 1388 2619; baseline -0.011 -1"><span class='ocrx_word' id='word_1_12' title='bbox 257 2535 288 2618; x_wconf 80' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_13' title='bbox 323 2524 700 2619; x_wconf 83' lang='lat' dir='ltr'><strong>VATICANIS</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 730 2524 1040 2613; x_wconf 87' lang='lat' dir='ltr'>CODlClBUS</span> <span class='ocrx_word' id='word_1_15' title='bbox 1077 2525 1388 2614; x_wconf 86' lang='lat' dir='ltr'><strong>EDITORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 546 2762 1132 2885">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 546 2762 1132 2885">
+     <span class='ocr_line' id='line_1_4' title="bbox 546 2762 1132 2885; baseline -0.01 -7"><span class='ocrx_word' id='word_1_16' title='bbox 546 2762 984 2881; x_wconf 88' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_17' title='bbox 1059 2767 1132 2885; x_wconf 83' lang='lat' dir='ltr'>V.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1696 5206">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1696 5206">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1696 5206; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1696 5206; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
